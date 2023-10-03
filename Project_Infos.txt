@@ -1,0 +1,10 @@
+*** Colors ***
+Main-Colo: #fa90c0;
+Second-Color: #c176cc;
+Bg-Color: #fbfafb;
+Border-Color: #eeedef;
+
+
+*** Google Font ***
+
+Font-Family: cairo;
